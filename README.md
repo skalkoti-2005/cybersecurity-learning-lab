@@ -1,42 +1,64 @@
-Cybersecurity Learning Lab
+# Cybersecurity Learning Lab
 
-A personal repository documenting my journey in cybersecurity, networking and information security.
+Welcome to my Cybersecurity Learning Lab! This repository documents my learning journey in cybersecurity, networking, Linux, digital forensics, and Python programming.
 
-About This Repository
+## About Me
 
-This repository contains my learning notes, practical experiments and beginner-friendly projects related to cybersecurity.
+I am a Computer Science Engineering student interested in cybersecurity, ethical practices, network security, and digital investigations.
 
-# Topics Covered
+## Repository Contents
 
-- Cybersecurity Fundamentals
-- Computer Networking
+### 1. Python
+Beginner-friendly Python security projects:
+- Password Strength Checker
+- File Integrity Checker
+- Log File Analyzer
+- File Type Identifier
+- URL Safety Checker
+- Password Generator
+
+### 2. Networking
+- Networking Fundamentals
+- Router and Switch Configuration
+- NAT Configuration
+- Spanning Tree Protocol (STP)
+
+### 3. Linux
 - Linux Fundamentals
-- Network Security
-- Python for Cybersecurity
-- Digital Forensics
-- Web Application Security
+- File and Directory Management
+- File Permissions
+- User and Group Management
+- System Log Analysis
 
-# Tools and Technologies
+### 4. Cybersecurity Fundamentals
+- CIA Triad
+- Phishing and Social Engineering
+- Malware Types
+- Firewalls and Network Security
+- Encryption and Cryptography
+- Authentication and Access Control
 
-- Kali Linux
+### 5. Digital Forensics
+- Digital Forensics Fundamentals
+- Digital Evidence and Chain of Custody
+- File Hashing
+- Basic Forensic Investigation Process
+
+## Tools and Technologies
 - Python
+- Linux and Kali Linux
 - Cisco Packet Tracer
 - Git and GitHub
-- Visual Studio Code
+- Wireshark
 
-# Learning Objectives
-
-- Understand fundamental security concepts.
-- Develop practical networking knowledge.
-- Explore defensive security techniques.
+## Learning Goals
+- Strengthen cybersecurity fundamentals.
 - Improve Python programming skills.
-- Document hands-on learning experiences.
+- Understand networking and Linux.
+- Learn digital evidence handling.
+- Build practical, beginner-level security projects.
 
-#Disclaimer
 
-All activities documented here are intended for educational purposes and authorized lab environments.
+---
 
-# Author
-
-Sinchana Kalkoti  
-Computer Science Engineering Student
+**Thank you for visiting my Cybersecurity Learning Lab!**
