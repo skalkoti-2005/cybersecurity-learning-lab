@@ -1,24 +1,40 @@
 # Linux Fundamentals
 
-This folder contains my Linux learning notes, command-line practice and basic system administration concepts.
+## About
+This section contains basic Linux commands and practical exercises that I am learning as part of my cybersecurity journey.
 
-# Topics Covered
+## What is Linux?
+Linux is an open-source operating system widely used in servers, networking, and cybersecurity.
 
-- Linux File System
-- Basic Terminal Commands
-- File and Directory Management
-- User and Group Management
-- File Permissions
-- Process Management
-- Linux Networking Commands
-- Basic System Security
+## Basic Linux Commands
 
-# Tools
+| Command | Purpose |
+|---|---|
+| `pwd` | Displays the current directory |
+| `ls` | Lists files and folders |
+| `cd` | Changes directory |
+| `mkdir` | Creates a directory |
+| `touch` | Creates an empty file |
+| `cat` | Displays file contents |
+| `cp` | Copies files |
+| `mv` | Moves or renames files |
+| `rm` | Deletes files |
+| `clear` | Clears the terminal |
+| `whoami` | Displays the current username |
+| `date` | Displays the date and time |
 
+## Linux in Cybersecurity
+- Understanding file systems.
+- Managing files and directories.
+- Working with terminal commands.
+- Understanding users and permissions.
+- Reading system logs.
+
+## Tools
 - Kali Linux
 - Linux Terminal
 - VirtualBox
 
-# Learning Objective
+## Learning Goal
+To develop basic Linux command-line skills and understand how Linux is used in cybersecurity.
 
-To develop practical Linux skills and understand how Linux operating systems are used in cybersecurity and system administration.
