@@ -1,17 +1,51 @@
-Networking
+# Networking Fundamentals
 
-This folder contains my computer networking notes, practical experiments and concepts related to network communication.
+## About
+This section contains my beginner-level networking notes and practical concepts learned during my Computer Science Engineering studies.
 
- Topics
+## Topics Covered
 
-- OSI and TCP/IP Models
+### 1. What is Computer Networking?
+A computer network is a group of connected devices that communicate and share information.
+
+### 2. Types of Networks
+- LAN – Local Area Network
+- MAN – Metropolitan Area Network
+- WAN – Wide Area Network
+- PAN – Personal Area Network
+
+### 3. Network Devices
+- Router – Connects different networks.
+- Switch – Connects devices within a local network.
+- Hub – Broadcasts incoming data to connected devices.
+- Modem – Connects a network to an internet service.
+
+### 4. Network Models
+- OSI Model
+- TCP/IP Model
+
+### 5. Important Protocols
+- HTTP and HTTPS
+- TCP and UDP
+- DNS
+- DHCP
+- FTP
+- SSH
+
+### 6. Other Concepts
 - IP Addressing
-- Routing and Switching
-- Network Address Translation (NAT)
-- DNS and DHCP
-- Spanning Tree Protocol
-- Basic Network Troubleshooting
+- MAC Address
+- Subnet Mask
+- Default Gateway
+- NAT
+- VLAN
+- Spanning Tree Protocol (STP)
 
- Practical Work
+## Practical Tools
+- Cisco Packet Tracer
+- Kali Linux
+- Command Prompt
 
-Documenting networking experiments performed using Cisco Packet Tracer.
+## Learning Goal
+To understand how computer networks communicate and how networking concepts support cybersecurity.
+
