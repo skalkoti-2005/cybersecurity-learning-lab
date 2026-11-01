@@ -17,5 +17,3 @@ A beginner-friendly Python project that checks password strength using basic rul
 ## Learning Outcome
 Learned basic Python programming and password security concepts.
 
-## Disclaimer
-This is an educational project and does not provide a complete password security assessment.
